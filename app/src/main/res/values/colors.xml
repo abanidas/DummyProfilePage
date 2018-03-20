@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="profileImgColor">#88f1efc0</color>
+    <color name="secondaryColor">#535352</color>
+    <color name="buttonColor">#d025aa</color>
+    <color name="whiteTransparent">#aaffffff</color>
+    <color name="footerGray">#a7a4a5</color>
+    <color name="grayTransparent">#88807e7f</color>
+</resources>
